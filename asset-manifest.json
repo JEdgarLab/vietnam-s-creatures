@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/vietnam-s-creatures/static/css/main.da7d6ddb.css",
+    "main.js": "/vietnam-s-creatures/static/js/main.d73e8abc.js",
+    "static/js/787.0daefaed.chunk.js": "/vietnam-s-creatures/static/js/787.0daefaed.chunk.js",
+    "static/media/org-chart.svg": "/vietnam-s-creatures/static/media/org-chart.14a69f9d9c32de37879e5ad37967e41f.svg",
+    "index.html": "/vietnam-s-creatures/index.html",
+    "static/media/plant.svg": "/vietnam-s-creatures/static/media/plant.83787a7decfb3ddfa77723c6c2c2c15e.svg",
+    "static/media/animal.svg": "/vietnam-s-creatures/static/media/animal.9befbd97b92423f10ebc8a3ebb9047b9.svg",
+    "static/media/home.svg": "/vietnam-s-creatures/static/media/home.d6d3c906e9787796a09be5728d926888.svg",
+    "static/media/map.svg": "/vietnam-s-creatures/static/media/map.bbecbdc8cf2d059ad33fcc91d2c17b5d.svg",
+    "static/media/bar-chart.svg": "/vietnam-s-creatures/static/media/bar-chart.a0f92e43ad6b2b9f8edb8592b6feea05.svg",
+    "static/media/organization-chart.svg": "/vietnam-s-creatures/static/media/organization-chart.bca00164204cb6dea8d582975bb36790.svg",
+    "static/media/musical-note.svg": "/vietnam-s-creatures/static/media/musical-note.3a959992be06fa0144acbfb3a52e3622.svg",
+    "static/media/play-back.svg": "/vietnam-s-creatures/static/media/play-back.8e6a44189cc11c3ef327e4296348586e.svg",
+    "static/media/play-forward.svg": "/vietnam-s-creatures/static/media/play-forward.f2b5f879a148ce63cb50835e3de04d3d.svg",
+    "static/media/pause.svg": "/vietnam-s-creatures/static/media/pause.6116e3ba0b237d3755437e8ae676d0a4.svg",
+    "static/media/chevron.svg": "/vietnam-s-creatures/static/media/chevron.0c5b55f84390f3d1759372f2a239072b.svg",
+    "static/media/play.svg": "/vietnam-s-creatures/static/media/play.77d970b83f7d999bd80820b4c9840c1c.svg",
+    "main.da7d6ddb.css.map": "/vietnam-s-creatures/static/css/main.da7d6ddb.css.map",
+    "main.d73e8abc.js.map": "/vietnam-s-creatures/static/js/main.d73e8abc.js.map",
+    "787.0daefaed.chunk.js.map": "/vietnam-s-creatures/static/js/787.0daefaed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da7d6ddb.css",
+    "static/js/main.d73e8abc.js"
+  ]
+}
