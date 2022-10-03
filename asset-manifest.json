@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/vietnam-s-creatures/static/css/main.da7d6ddb.css",
-    "main.js": "/vietnam-s-creatures/static/js/main.d73e8abc.js",
+    "main.css": "/vietnam-s-creatures/static/css/main.7bd44b6c.css",
+    "main.js": "/vietnam-s-creatures/static/js/main.75e451a0.js",
     "static/js/787.0daefaed.chunk.js": "/vietnam-s-creatures/static/js/787.0daefaed.chunk.js",
+    "static/media/img1.jpg": "/vietnam-s-creatures/static/media/img1.5d2efce1142ea825e5da.jpg",
     "static/media/org-chart.svg": "/vietnam-s-creatures/static/media/org-chart.14a69f9d9c32de37879e5ad37967e41f.svg",
     "index.html": "/vietnam-s-creatures/index.html",
     "static/media/plant.svg": "/vietnam-s-creatures/static/media/plant.83787a7decfb3ddfa77723c6c2c2c15e.svg",
@@ -15,14 +16,16 @@
     "static/media/play-back.svg": "/vietnam-s-creatures/static/media/play-back.8e6a44189cc11c3ef327e4296348586e.svg",
     "static/media/play-forward.svg": "/vietnam-s-creatures/static/media/play-forward.f2b5f879a148ce63cb50835e3de04d3d.svg",
     "static/media/pause.svg": "/vietnam-s-creatures/static/media/pause.6116e3ba0b237d3755437e8ae676d0a4.svg",
+    "static/media/ellipsis-vertical.svg": "/vietnam-s-creatures/static/media/ellipsis-vertical.5f8c13965e5d27823b2453087902812a.svg",
     "static/media/chevron.svg": "/vietnam-s-creatures/static/media/chevron.0c5b55f84390f3d1759372f2a239072b.svg",
+    "static/media/close.svg": "/vietnam-s-creatures/static/media/close.00824d537066f88d908e17508e381b82.svg",
     "static/media/play.svg": "/vietnam-s-creatures/static/media/play.77d970b83f7d999bd80820b4c9840c1c.svg",
-    "main.da7d6ddb.css.map": "/vietnam-s-creatures/static/css/main.da7d6ddb.css.map",
-    "main.d73e8abc.js.map": "/vietnam-s-creatures/static/js/main.d73e8abc.js.map",
+    "main.7bd44b6c.css.map": "/vietnam-s-creatures/static/css/main.7bd44b6c.css.map",
+    "main.75e451a0.js.map": "/vietnam-s-creatures/static/js/main.75e451a0.js.map",
     "787.0daefaed.chunk.js.map": "/vietnam-s-creatures/static/js/787.0daefaed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da7d6ddb.css",
-    "static/js/main.d73e8abc.js"
+    "static/css/main.7bd44b6c.css",
+    "static/js/main.75e451a0.js"
   ]
 }
